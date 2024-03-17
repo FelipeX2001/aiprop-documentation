@@ -2,7 +2,8 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-logo: <span>AIPROP</span>,
+  link: 'https://aiprop-documentation.vercel.app/',
+  logo: <img src="http://aiprop.com.co/wp-content/uploads/2024/03/AIPROP-LOGO-NEGRO.png" alt="AIPROP Logo" width="160" height="50" />,
   project: {
     link: 'https://aiprop.com.co/',
     icon: <img src="http://aiprop.com.co/wp-content/uploads/2024/03/web.png" alt="Project Icon" width="24" height="24" />,
