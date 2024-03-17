@@ -1,15 +1,15 @@
 {
+  "*": { "type": "page" },
   "index": "Introducción",
   "another": "Índice Principal",
   "advanced": "CRM AIProp",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "About"
   },
   "contact": {
     "title": "Contact ↗",
-    "type": "page",
     "href": "https://www.iapps.ai/contact",
     "newWindow": true
   }
 }
+
