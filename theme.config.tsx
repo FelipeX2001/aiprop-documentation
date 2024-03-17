@@ -11,9 +11,9 @@ logo: <img src="http://aiprop.com.co/wp-content/uploads/2024/03/AIPROP-LOGO-NEGR
     link: 'https://api.whatsapp.com/send?phone=573042536416&text=Quiero%20evolucionar%20mi%20empresa%20con%20Inteligencia%20Artificial%20%F0%9F%A6%BE',
     icon: <img src="http://aiprop.com.co/wp-content/uploads/2024/03/WHATSAPP.png" alt="Chat Icon" width="24" height="24" />,
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://admin.aiprop.com.co/',
   footer: {
-    text: 'AIProp Doc',
+    text: 'AIProp Documentation',
   },
 };
 
